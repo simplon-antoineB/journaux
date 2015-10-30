@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg >
+<svg width="45px" height="45px" xml:lang="fr"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>Logo loupe</title>
+   <desc>Une putain de loupe en svg</desc>
+
+   <circle cx="15" cy="15" r="10" style="fill:#CEC7C7"/>
+   <circle cx="15" cy="15" r="8" style="fill:#fff" />
+   <line x1="22" y1="22" x2="25" y2="25" stroke-width="2" stroke="#CEC7C7"/>
+   <rect x="22" y="26" height="4" width="13" style="fill:#CEC7C7" rx="2" transform="rotate(45 28 28)"/>
+   <rect x="24" y="27" height="2" width="9" style="fill:#fff" rx="2" transform="rotate(45 28 28)"/>
+</svg>
